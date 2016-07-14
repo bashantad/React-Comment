@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "author": "Pete Hunt",
+        "text": "This is one comment"
+    },
+    {
+        "id": 2,
+        "author": "John Smith",
+        "text": "This is *another* comment with dash..."
+    },
+    {
+        "id": 1468478685371,
+        "author": "Peter Jackson",
+        "text": "why are we doing this"
+    },
+    {
+        "id": 1468479008250,
+        "author": "Josh Brown",
+        "text": "test comment"
+    }
+]
